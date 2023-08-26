@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Mohan Kumar",
+      "email": "mohan123@gmail.com",
+      "phone": "7899546754",
+      "id": 1
+    },
+    {
+      "name": "Sohan Jha",
+      "email": "sohanb6566@gmail.com",
+      "phone": "8976543212",
+      "id": 2
+    },
+    {
+      "name": "Kunal Jain",
+      "email": "kunaln81023@gmail.com",
+      "phone": "9876543212",
+      "id": 3
+    },
+    {
+      "name": "Kumar Lokesh",
+      "email": "krccccc344@gmail.com",
+      "phone": "+919359334825",
+      "id": 4
+    }
+  ]
+}
